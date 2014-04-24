@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "io_code_finder",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Helped me find codes for the IO EasterEgg Hunt of 2014",
+    "description": "The description of the application"
+  }
+}
